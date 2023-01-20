@@ -1,6 +1,14 @@
 # FlutterQuestions
+A. Short Questions
+1. What’s the difference between var and dynamic type in Dart? [Click here](https://jelenaaa.medium.com/flutter-question-of-the-day-series-4d6d19794532)
+2. Const vs final [Click here](https://jelenaaa.medium.com/whats-the-difference-between-const-and-final-in-dart-c274db97f9fc)
+3. What is a (fat)arrow syntax in Dart? [Click here](https://jelenaaa.medium.com/what-is-a-fat-arrow-syntax-in-dart-8015b0c81fe2)
+4. When to use async, await, then and Future in Dart? [click here](https://jelenaaa.medium.com/when-to-use-async-await-then-and-future-in-dart-5e00e64ab9b1)
+5. Isolates and when should we use? [Click here](https://jelenaaa.medium.com/what-is-an-isolate-and-why-would-you-need-to-use-it-sometimes-78142b6e8101)
+6. Const objects in dart? [Click here](https://jelenaaa.medium.com/what-are-const-objects-in-dart-fd65cf5b0afd)
+7. What are generator functions (sync*, async*, yield and yield*) in Dart? [Click here](https://jelenaaa.medium.com/what-are-sync-async-yield-and-yield-in-dart-defe57d06381)
 
-A. Descriptive Questions:
+B. Descriptive Questions:
 1. Can we nest the Scaffold widget? Why or Why not?
 
 Yes, We can nest the Scaffold widget. Scaffold is a widget so we can place it anywhere where it fits. By nesting the Scaffold we can layer drawers, snack bars and bottom sheets.
@@ -122,8 +130,7 @@ So, here comes the role of BuildContext. The BuildContext is used to locate a pa
 As we know that every widget in Flutter is created by the build method and the build method takes a BuildContext as an argument. This helps the build method to find which widget it is going to draw and also it helps in locating the position of the widget to be drawn in the widget tree.
 Also, one thing to note here is that widgets are only visible to their BuildContext or to its parent's BuildContext. So, from a child widget, you can locate the parent widget.
 
-
-B. Coding Questions:
+C. Coding Questions:
 
 1. Refactor the code below so that the children will wrap to the next line when
 the display width is small for them to fit.
