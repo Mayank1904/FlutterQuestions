@@ -7,6 +7,9 @@ A. Short Questions
 5. Isolates and when should we use? [Click here](https://jelenaaa.medium.com/what-is-an-isolate-and-why-would-you-need-to-use-it-sometimes-78142b6e8101)
 6. Const objects in dart? [Click here](https://jelenaaa.medium.com/what-are-const-objects-in-dart-fd65cf5b0afd)
 7. What are generator functions (sync*, async*, yield and yield*) in Dart? [Click here](https://jelenaaa.medium.com/what-are-sync-async-yield-and-yield-in-dart-defe57d06381)
+8. What exactly is that BuildContext you keep seeing in your build methods? [Click here](https://jelenaaa.medium.com/what-exactly-is-that-buildcontext-you-keep-seeing-in-your-build-methods-2ea729bea88d)
+9. What are ??, ??=, ?., …? in Dart? [Click here](https://jelenaaa.medium.com/what-are-in-dart-df1f11706dd6)
+10. What is state? [Click here](https://jelenaaa.medium.com/what-is-a-state-object-that-you-need-to-create-in-every-statefulwidget-6d9ca635aa68)
 
 B. Descriptive Questions:
 1. Can we nest the Scaffold widget? Why or Why not?
