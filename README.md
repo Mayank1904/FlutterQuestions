@@ -10,6 +10,12 @@ A. Short Questions
 8. What exactly is that BuildContext you keep seeing in your build methods? [Click here](https://jelenaaa.medium.com/what-exactly-is-that-buildcontext-you-keep-seeing-in-your-build-methods-2ea729bea88d)
 9. What are ??, ??=, ?., …? in Dart? [Click here](https://jelenaaa.medium.com/what-are-in-dart-df1f11706dd6)
 10. What is state? [Click here](https://jelenaaa.medium.com/what-is-a-state-object-that-you-need-to-create-in-every-statefulwidget-6d9ca635aa68)
+11. Who creates a navigator? Where you can find it? [Click Here](https://jelenaaa.medium.com/who-creates-a-navigator-in-flutter-4c3f70941443)
+12. Does state object lives after dispose? [Click Here](https://jelenaaa.medium.com/does-state-object-live-after-dispose-b6c0588fd505)
+12. How to force widget to draw the UI? [Click Here](https://jelenaaa.medium.com/how-to-force-widget-to-redraw-in-flutter-2eec703bc024)
+13. How to wait for the Future(s) in Dart/Flutter? [Click Here](https://medium.com/flutter-africa/how-to-wait-for-the-future-s-in-dart-flutter-227933e97270)
+14. What are simplest state management solutions?[Click Here](https://betterprogramming.pub/what-are-the-simplest-state-management-solutions-in-flutter-56326797a28f)
+15. More Questions to be asked [Click Here](https://jelenaaa.medium.com/most-asked-flutter-and-dart-interview-questions-with-detailed-answers-89025bf69037)
 
 B. Descriptive Questions:
 1. Can we nest the Scaffold widget? Why or Why not?
